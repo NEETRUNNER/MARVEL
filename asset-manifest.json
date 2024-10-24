@@ -1,16 +1,33 @@
 {
   "files": {
-    "main.css": "/MARVEL/static/css/main.444e343c.css",
-    "main.js": "/MARVEL/static/js/main.c6c5118e.js",
+    "main.css": "/MARVEL/static/css/main.d405f783.css",
+    "main.js": "/MARVEL/static/js/main.b964f3f8.js",
+    "static/js/280.1648d502.chunk.js": "/MARVEL/static/js/280.1648d502.chunk.js",
+    "static/css/276.68b6547a.chunk.css": "/MARVEL/static/css/276.68b6547a.chunk.css",
+    "static/js/276.111dd74b.chunk.js": "/MARVEL/static/js/276.111dd74b.chunk.js",
+    "static/css/11.1bd4c690.chunk.css": "/MARVEL/static/css/11.1bd4c690.chunk.css",
+    "static/js/11.7d34854e.chunk.js": "/MARVEL/static/js/11.7d34854e.chunk.js",
+    "static/css/333.3082095c.chunk.css": "/MARVEL/static/css/333.3082095c.chunk.css",
+    "static/js/333.ff26a3d3.chunk.js": "/MARVEL/static/js/333.ff26a3d3.chunk.js",
+    "static/media/error_img.png": "/MARVEL/static/media/error_img.d1a7ee24df283a1f73d3.png",
     "static/media/vision.png": "/MARVEL/static/media/vision.067d4ae1936d64a577ce.png",
     "static/media/mjolnir.png": "/MARVEL/static/media/mjolnir.61f31e1809f12183a524.png",
+    "static/media/Avengers.png": "/MARVEL/static/media/Avengers.4065c8f9c94e3d8b039a.png",
     "static/media/error.gif": "/MARVEL/static/media/error.42292aa12b6bc303ce99.gif",
+    "static/media/Avengers_logo.png": "/MARVEL/static/media/Avengers_logo.9eaf219344d83362e830.png",
     "index.html": "/MARVEL/index.html",
-    "main.444e343c.css.map": "/MARVEL/static/css/main.444e343c.css.map",
-    "main.c6c5118e.js.map": "/MARVEL/static/js/main.c6c5118e.js.map"
+    "main.d405f783.css.map": "/MARVEL/static/css/main.d405f783.css.map",
+    "main.b964f3f8.js.map": "/MARVEL/static/js/main.b964f3f8.js.map",
+    "280.1648d502.chunk.js.map": "/MARVEL/static/js/280.1648d502.chunk.js.map",
+    "276.68b6547a.chunk.css.map": "/MARVEL/static/css/276.68b6547a.chunk.css.map",
+    "276.111dd74b.chunk.js.map": "/MARVEL/static/js/276.111dd74b.chunk.js.map",
+    "11.1bd4c690.chunk.css.map": "/MARVEL/static/css/11.1bd4c690.chunk.css.map",
+    "11.7d34854e.chunk.js.map": "/MARVEL/static/js/11.7d34854e.chunk.js.map",
+    "333.3082095c.chunk.css.map": "/MARVEL/static/css/333.3082095c.chunk.css.map",
+    "333.ff26a3d3.chunk.js.map": "/MARVEL/static/js/333.ff26a3d3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.444e343c.css",
-    "static/js/main.c6c5118e.js"
+    "static/css/main.d405f783.css",
+    "static/js/main.b964f3f8.js"
   ]
 }
